@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Portfolio
+comment1.params=
+comment1.target=Portfolio()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Portfolio\n
+comment2.params=
+comment2.target=java.util.HashMap\ getMap()
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment3.params=map
+comment3.target=java.util.HashMap\ setMap(java.util.HashMap)
+comment4.params=company
+comment4.target=int\ getShares(java.lang.String)
+comment5.params=
+comment5.target=double\ getCash()
+comment6.params=cash
+comment6.target=void\ setCash(double)
+comment7.params=symbol\ sshares
+comment7.target=void\ setSharesBuy(java.lang.String,\ int)
+comment8.params=symbol\ sshares
+comment8.target=void\ setSharesSell(java.lang.String,\ int)
+numComments=9
